@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxSpreadsheet - How to add a chart to a document
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t447233/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to add the following charts to a document
